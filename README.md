@@ -24,14 +24,9 @@ I am a [self taught guitarist](https://www.instagram.com/p/BNUxJOEgT5F/) and a o
 
 <h3 align="left">🌎 My Mantras</h3>
 
-  Missing an oppourtunity can hurt more than failure.
+- Missing an opportunity can hurt more than failure itself.
 - Working with people who make you smile is a core virtue of any job.
 - If you are truly passionate about something, you will find time for it.
-
-<h3 align="left">📫 Get In Touch</h3>
-
-- Connect: [linkedin.com/in/mdchow](https://www.linkedin.com/in/mdchow/)
-- Contact: matthewchow03@gmail.com
 
 </details>
 
@@ -45,7 +40,7 @@ My work with the UBC Solar design team centers around PCB firmware development u
 
 <h3 align="left">📡 LED Strip Transceiver</h3>
 
-Most colored LED strips are controlled via a remote or bluetooth app; I created a small circuit to control the LEDs from my computer. I developed **C++** firmware that worked with the transciever circuit and an **Arduino** board. This code can be run directly from the terminal using a **PowerShell** script that I wrote to interface with the serial port.
+Most coloured LED strips are controlled via a remote or bluetooth app; I created a small circuit to control the LEDs from my computer. I developed **C++** firmware that worked with the transceiver circuit and an **Arduino** board. This code can be run directly from the terminal using a **PowerShell** script that I wrote to interface with the serial port.
 
 > *Next: add a GUI to improve the UX compared to interacting with the terminal.* 
 
@@ -59,6 +54,13 @@ I am building a database using **MySQL** and **Python** to store student grades 
 
 <h3 align="left">💪 EMG Controlled Drone</h3> 
 
-Movement of any muscle releases electrical signals that can be read with an EMG sensor. I am working on a circuit that connects an EMG sensor to a drone controller, powering a drone's lift off with muscle movements. I am writing a **C++** program to power an **Arduino** microcontroller. The Arduino will parse the EMG data and send it to the controller.
+The movement of any muscle releases electrical signals that can be read with an EMG sensor. I am working on a circuit that connects an EMG sensor to a drone controller, powering a drone's liftoff with muscle movements. I am writing a **C++** program to power an **Arduino** microcontroller. The Arduino will parse the EMG data and send it to the controller.
 
 > *Next: use EEG brain waves to control the drone instead of EMG signals.* 
+
+---
+
+<h3 align="left">📫 Get In Touch</h3>
+
+- Connect: [linkedin.com/in/mdchow](https://www.linkedin.com/in/mdchow/)
+- Contact: matthewchow03@gmail.com
