@@ -17,9 +17,11 @@ I aim to build up the skills needed to engineer the next generation of automobil
 
 My dream is to work on the next generation of intelligent transportation while minimizing the impacts that vehicles have on our world.
 
-<h3 align="left">🎸 Fun Fact </h3>
+<h3 align="left">🎸 Fun Facts </h3>
 
-I am a [self taught guitarist](https://www.instagram.com/p/BNUxJOEgT5F/) and a one man band. I play the melody, chords, bassline, and occasionally, the percussion. This is also known as (percussive) fingerstyle.
+I am a <a href="https://www.instagram.com/p/BNUxJOEgT5F/" target="_blank">self taught guitarist</a> and a one man band. I play the melody, chords, bassline, and occasionally, the percussion. This is also known as (percussive) fingerstyle.
+
+I have been weightlifting for over 4 years, battling many health complications along the way. I am currently dealing with a growth in my ankle, but I like to say that every challenge someone faces is a lesson that can be taught to others. I am always open to having a chat about diet, training programs, and answering any questions you have about fitness. Shoot me an email!
 
 
 <h3 align="left">🌎 My Mantras</h3>
@@ -30,7 +32,7 @@ I am a [self taught guitarist](https://www.instagram.com/p/BNUxJOEgT5F/) and a o
 
 </details>
 
-<h2 align="center">What I'm Up To</h2>
+<b><h2 align="center">What I'm Up To</h2></b>
 
 <h3 align="left">⚡ Race Car Firmware </h3>
 
@@ -62,5 +64,6 @@ The movement of any muscle releases electrical signals that can be read with an 
 
 <h3 align="left">📫 Get In Touch</h3>
 
-- Connect: [linkedin.com/in/mdchow](https://www.linkedin.com/in/mdchow/)
+
+- Connect: <a href="https://www.linkedin.com/in/mdchow/" target="_blank">linkedin.com/in/mdchow</a>
 - Contact: matthewchow03@gmail.com
