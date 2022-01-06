@@ -40,7 +40,7 @@ My work with the UBC Solar design team centers around PCB firmware development u
 
 > *Next: create the firmware for the vehicle's internal display using interrupts to integrate the display with the CANbus.* 
 
-<h3 align="left"><a href="https://github.com/MatthewChow03/LED-Strip-Controller" target="_blank">📡 LED Strip Transceiver</a></h3>
+<h3 align="left"><a href="https://github.com/MatthewChow03/LED-Strip-Controller" target="_blank" rel="noreferrer noopener">📡 LED Strip Transceiver</a></h3>
 
 Most coloured LED strips are controlled via a remote or bluetooth app; I created a small circuit to control the LEDs from my computer. I developed **C++** firmware that worked with the transceiver circuit and an **Arduino** board. This code can be run directly from the terminal using a **PowerShell** script that I wrote to interface with the serial port.
 
@@ -67,5 +67,5 @@ The movement of any muscle releases electrical signals that can be read with an 
 <h3 align="left">📫 Get In Touch</h3>
 
 
-- Connect: <a href="https://www.linkedin.com/in/mdchow/" target="_blank">linkedin.com/in/mdchow</a>
+- Connect: <a href="https://www.linkedin.com/in/mdchow/" target="_blank" rel="noreferrer noopener">linkedin.com/in/mdchow</a>
 - Contact: matthewchow03@gmail.com
