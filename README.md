@@ -19,7 +19,7 @@ My dream is to work on the next generation of intelligent transportation while m
 
 <h3 align="left">🎸 Fun Facts </h3>
 
-I am a <a href="https://www.instagram.com/p/BNUxJOEgT5F/" target="_blank">self taught guitarist</a> and a one man band. I play the melody, chords, bassline, and occasionally, the percussion. This is also known as (percussive) fingerstyle.
+I am a [self taught guitarist](https://www.instagram.com/p/BNUxJOEgT5F/) and a one man band. I play the melody, chords, bassline, and occasionally, the percussion. This is also known as (percussive) fingerstyle.
 
 I have been weightlifting for over 4 years, battling many health complications along the way. I am currently dealing with a growth in my ankle, but I like to say that every challenge someone faces is a lesson that can be taught to others. I am always open to having a chat about diet, training programs, and answering any questions you have about fitness. Shoot me an email!
 
@@ -40,7 +40,7 @@ My work with the UBC Solar design team centers around PCB firmware development u
 
 > *Next: create the firmware for the vehicle's internal display using interrupts to integrate the display with the CANbus.* 
 
-<h3 align="left"><a href="https://github.com/MatthewChow03/LED-Strip-Controller" target="_blank" rel="noreferrer noopener">📡 LED Strip Transceiver</a></h3>
+<h3 align="left">[📡 LED Strip Transceiver](https://github.com/MatthewChow03/LED-Strip-Controller)</h3>
 
 Most coloured LED strips are controlled via a remote or bluetooth app; I created a small circuit to control the LEDs from my computer. I developed **C++** firmware that worked with the transceiver circuit and an **Arduino** board. This code can be run directly from the terminal using a **PowerShell** script that I wrote to interface with the serial port.
 
@@ -67,5 +67,5 @@ The movement of any muscle releases electrical signals that can be read with an 
 <h3 align="left">📫 Get In Touch</h3>
 
 
-- Connect: <a href="https://www.linkedin.com/in/mdchow/" target="_blank" rel="noreferrer noopener">linkedin.com/in/mdchow</a>
+- Connect: [linkedin.com/in/mdchow](https://www.linkedin.com/in/mdchow/)
 - Contact: matthewchow03@gmail.com
