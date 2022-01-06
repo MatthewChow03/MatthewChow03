@@ -1,7 +1,7 @@
 <h1 align="center">About Me</h1>
 
 
-I am an engineering student pursuing a major in Computer Engineering at the University of British Columbia.
+I am a first year engineering student pursuing a major in Computer Engineering at the University of British Columbia.
 
 <details>
 
@@ -13,7 +13,7 @@ I was born and raised in East Vancouver, comforted by familiarity and a sense of
 
 My passion is computer engineering with a niche in sustainability and transportation. I believe cars today are not mechanical, electrical, or manufacturing endeavours, they are software driven robots. It fascinates me that vehicles have brains, implemented in the roots of their embedded systems.
 
-I aim to build up the skills needed to engineer the next generation of automobiles; between my degree, my projects, my tenacity, and my ambition, I hope to be on the right path. Working on solar race cars, I am gaining experience as a developer, but also a perspective on sustainability that is vital to people, profit, and the planet. 
+I aim to build up the skills needed to create the next generation of automobiles; between my degree, my projects, my tenacity, and my ambition, I hope to be on the right path. Working on solar race cars with <a href="https://ubcsolar.com/">UBC Solar</a>, I am gaining experience as a developer, but also a perspective on sustainability that is vital to people, profit, and the planet. 
 
 My dream is to work on the next generation of intelligent transportation while minimizing the impacts that vehicles have on our world.
 
@@ -21,8 +21,7 @@ My dream is to work on the next generation of intelligent transportation while m
 
 I am a [self taught guitarist](https://www.instagram.com/p/BNUxJOEgT5F/) and a one man band. I play the melody, chords, bassline, and occasionally, the percussion. This is also known as (percussive) fingerstyle.
 
-I have been weightlifting for over 4 years, battling many health complications along the way. I am currently dealing with a growth in my ankle, but I like to say that every challenge someone faces is a lesson that can be taught to others. I am always open to having a chat about diet, training programs, and answering any questions you have about fitness. Shoot me an email!
-
+I have been weightlifting for over 4 years, battling many health complications along the way. I am currently dealing with a growth in my ankle, but I like to say that every challenge someone faces is a lesson that can be taught to others. I am always open to having a chat about diet, training programs, and answering any questions you have about fitness. 
 
 <h3 align="left">🌎 My Mantras</h3>
 
@@ -34,7 +33,7 @@ I have been weightlifting for over 4 years, battling many health complications a
 
 <b><h2 align="center">What I'm Up To</h2></b>
 
-<h3 align="left">⚡ Race Car Firmware </h3>
+<h3 align="left"><a href="https://github.com/UBC-Solar/firmware_v3">⚡ Race Car Firmware</a></h3>
 
 My work with the UBC Solar design team centers around PCB firmware development using **STM32** microcontrollers, **CAN** networks, and embedded systems design in **C**. I implemented an **RTOS** task for the main control board of the car to protect the motor from overheating. I am testing and debugging the main control board with a logic analyzer and STM32 IDE.
 
