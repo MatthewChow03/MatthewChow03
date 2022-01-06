@@ -46,7 +46,7 @@ Most coloured LED strips are controlled via a remote or bluetooth app; I created
 
 > *Next: add a GUI to improve the UX compared to interacting with the terminal.* 
 >
-> *After: use pin change interrupts to controll TX and RX.*
+> *After: add instructions to flash code using the terminal.*
 
 <h3 align="left">📚 Student Database Visualizer</h3>
 
