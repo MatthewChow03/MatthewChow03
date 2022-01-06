@@ -45,6 +45,8 @@ My work with the UBC Solar design team centers around PCB firmware development u
 Most coloured LED strips are controlled via a remote or bluetooth app; I created a small circuit to control the LEDs from my computer. I developed **C++** firmware that worked with the transceiver circuit and an **Arduino** board. This code can be run directly from the terminal using a **PowerShell** script that I wrote to interface with the serial port.
 
 > *Next: add a GUI to improve the UX compared to interacting with the terminal.* 
+>
+> *After: use pin change interrupts to controll TX and RX.*
 
 <h3 align="left">📚 Student Database Visualizer</h3>
 
