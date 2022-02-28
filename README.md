@@ -13,7 +13,7 @@ I was born and raised in East Vancouver, comforted by familiarity and a sense of
 
 My passion is computer engineering with a niche in sustainability and transportation. I believe cars today are not mechanical, electrical, or manufacturing endeavours, they are software driven robots. It fascinates me that vehicles have brains, implemented in the roots of their embedded systems.
 
-I aim to build up the skills needed to create the next generation of automobiles; between my degree, my projects, my tenacity, and my ambition, I hope to be on the right path. Working on solar race cars with <a href="https://ubcsolar.com/">UBC Solar</a>, I am gaining experience as a developer, but also a perspective on sustainability that is vital to people, profit, and the planet. 
+My current focus is to build up the skills needed to create the next generation of automobiles; between my degree, my projects, my tenacity, and my ambition, I am trying to put myself on the right path. Working on solar race cars with <a href="https://ubcsolar.com/">UBC Solar</a>, I am gaining experience as a developer, but also a perspective on sustainability that is vital to people, profit, and the planet. 
 
 My dream is to work on the next generation of intelligent transportation while minimizing the impacts that vehicles have on our world.
 
@@ -21,11 +21,11 @@ My dream is to work on the next generation of intelligent transportation while m
 
 I am a [self taught guitarist](https://www.instagram.com/p/BNUxJOEgT5F/) and a one man band. I play the melody, chords, bassline, and occasionally, the percussion. This is also known as (percussive) fingerstyle.
 
-I have been weightlifting for over 4 years, battling many health complications along the way. I am currently dealing with a growth in my ankle, but I like to say that every challenge someone faces is a lesson that can be taught to others. I am always open to having a chat about diet, training programs, and answering any questions you have about fitness. 
+I have been weightlifting for over 4 years, battling many health complications along the way. I am currently dealing with a growth in my ankle, but I like to say that every challenge someone faces is a lesson that can be taught to others. I am always open to having a chat about diet, training programs, and fitness. 
 
 <h3 align="left">🌎 My Mantras</h3>
 
-- Missing an opportunity can hurt more than failure itself.
+- We are remembered for our character and the lasting impacts we create.
 - Working with people who make you smile is a core virtue of any job.
 - If you are truly passionate about something, you will find time for it.
 
