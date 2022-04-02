@@ -33,7 +33,7 @@ I have been weightlifting for over 4 years, battling many health complications a
 
 <b><h2 align="center">What I'm Up To</h2></b>
 
-<h3 align="left"><a href="https://github.com/UBC-Solar/firmware_v3">⚡ Race Car Firmware</a></h3>
+<h3 align="left"><a href="https://github.com/MatthewChow03/Dashboard-Firmware">⚡ Race Car Firmware</a></h3>
 
 My work with the UBC Solar design team centers around PCB firmware development using **STM32** microcontrollers, **CAN** networks, and embedded systems design in **C**. I implemented an **RTOS** task for the main control board of the car to protect the motor from overheating. I am testing and debugging the main control board with a logic analyzer and STM32 IDE.
 
