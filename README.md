@@ -13,15 +13,15 @@ I was born and raised in East Vancouver, comforted by familiarity and a sense of
 
 My passion is computer engineering with a niche in sustainability and transportation. I believe cars today are not mechanical, electrical, or manufacturing endeavours, they are software driven robots. It fascinates me that vehicles have brains, implemented in the roots of their embedded systems.
 
-My current focus is to build up the skills needed to create the next generation of automobiles; between my degree, my projects, my tenacity, and my ambition, I am trying to put myself on the right path. Working on solar race cars with <a href="https://ubcsolar.com/">UBC Solar</a>, I am gaining experience as a developer, but also a perspective on sustainability that is vital to people, profit, and the planet. 
+My current focus is to build up the skills needed to create the next generation of automobiles; between my degree, my projects, my tenacity, and my ambition, I am trying to put myself on the right path. Working on solar race cars with <a href="https://ubcsolar.com/">UBC Solar</a>, I am gaining experience as a developer, in addition to a sustainable perspective that is vital for engineering design. 
 
 My dream is to work on the next generation of intelligent transportation while minimizing the impacts that vehicles have on our world.
 
 <h3 align="left">🎸 Fun Facts </h3>
 
-I am a [self taught guitarist](https://www.instagram.com/p/BNUxJOEgT5F/) and a one man band. I play the melody, chords, bassline, and occasionally, the percussion. This is also known as (percussive) fingerstyle.
+I am a [self taught guitarist](https://www.instagram.com/p/BNUxJOEgT5F/) and a one man band. I play the melody, chords, bassline, and occasionally, the percussion. This is also known as percussive fingerstyle guitar.
 
-I have been weightlifting for over 4 years, battling many health complications along the way. I am currently dealing with a growth in my ankle, but I like to say that every challenge someone faces is a lesson that can be taught to others. I am always open to having a chat about diet, training programs, and fitness. 
+I have been weightlifting for over 4 years, battling many health complications along the way. I am currently dealing with a growth in my ankle, although I like to say that every challenge someone faces is a lesson that can be taught to others. I am always open to having a chat about diet, training programs, and fitness. 
 
 <h3 align="left">🌎 My Mantras</h3>
 
