@@ -1,7 +1,7 @@
 <h1 align="center">About Me</h1>
 
 
-I am a first year engineering student pursuing a major in Computer Engineering at the University of British Columbia.
+I am a second year computer engineering student at the University of British Columbia.
 
 <details>
 
