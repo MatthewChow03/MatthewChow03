@@ -1,8 +1,8 @@
 ### Hey!
 
-I'm Matthew, a third-year Computer Engineering student and Computer Science teaching assistant at the **University of British Columbia**.
+I'm Matthew, a third-year Computer Engineering student at the **University of British Columbia**.
 
-I currently write embedded software at **Tesla** for the Chassis Controls and Drive Inverter systems of the newest vehicles. Previously, I wrote firmware tools and continuous integration tests at **Generac** for their leading clean energy products.
+I wrote embedded software at **Tesla** that was released into production with the Cybertruck launch. I also developed firmware tooling and test infrastructure at **Generac** for their leading clean energy products.
 
 Here are some cool things I've worked on in the past:
 - [⚙️ Hardware Emulation Models](https://www.linkedin.com/posts/mdchow_firmware-embeddedsystems-software-activity-7094813845424144384-14UN) - custom peripheral support using the open-source [Renode framework](https://github.com/renode/renode)
@@ -13,4 +13,4 @@ Here are some cool things I've worked on in the past:
 - [💡 LED Strip Controller](https://github.com/MatthewChow03/LED-Strip-Controller) - a command line application to support an off-the-shelf colored light strip
 - [🦾 Autonomous Claw Algorithms](https://github.com/MatthewChow03/Autonomous-Claw) - a cardboard claw with smart timing and sensing features
 
-The best way to reach me is by sending a message at [linkedin.com/in/mdchow](https://www.linkedin.com/in/mdchow/), unless you fold your pizza, then email me at matthewchow03@gmail.com so that I can report you as spam.
+Reach out at [linkedin.com/in/mdchow](https://www.linkedin.com/in/mdchow/) or matthewchow03@gmail.com.
